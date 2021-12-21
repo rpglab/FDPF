@@ -1,5 +1,6 @@
 %% Fast decoupled power flow program 
 %  by Xingpeng Li (xplipower@gmail.com)
+%    Website: https://rpglab.github.io/
 
 %% Iteration process
 convFlag = 0;  % mark whether the program converges at B' or B''

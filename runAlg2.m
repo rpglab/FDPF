@@ -1,5 +1,6 @@
 %% Fast decoupled power flow program 
 %  by Xingpeng Li (xplipower@gmail.com)
+%    Website: https://rpglab.github.io/
 
 %% Iteration process
 for nk = 1:maxIter

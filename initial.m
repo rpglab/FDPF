@@ -1,5 +1,6 @@
 %% Fast decoupled power flow program 
 %  by Xingpeng Li, xplipower@gmail.com
+%    Website: https://rpglab.github.io/
 
 %% data format introduction
 % bus data format

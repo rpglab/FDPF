@@ -1,6 +1,7 @@
 %% Fast decoupled power flow program 
-%  by Xingpeng Li (xplipower@gmail.com)
 %    It works well for transmission networks where line resistance is much smaller than line reactance;
+%  by Xingpeng Li (xplipower@gmail.com)
+%    Website: https://rpglab.github.io/
 
 clear
 clc
